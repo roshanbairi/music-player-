@@ -13,9 +13,7 @@ A dynamic music player built with HTML, CSS, JS, and Node.js.
 - Backend: Node.js, Express
 - Hosting: Netlify + Render
 
-## Demo
-🌐 Frontend: [Netlify Link]  
-⚙️ Backend API: [Render Link]
+
 
 ## Author
 - GitHub: 
